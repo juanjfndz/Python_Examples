@@ -19,7 +19,7 @@ pip install numpy scipy matplotlib
 
 ## Running the Simulation
 
-To run the simulation, simply run the `simple_pendulum_3d.py` file in your terminal using the following command:
+To run the simulation, simply run the .py file file in your terminal using the following command:
 
 ```
 python simple_pendulum_3d.py
@@ -29,7 +29,7 @@ This will generate an animation of the 3D simple pendulum in your default web br
 
 ## Jupyter Notebook
 
-The `simple_pendulum_3d.ipynb` notebook provides a detailed explanation of the mathematics behind the simulation, as well as an example of how to use the code to simulate different initial conditions.
+The .ipynb notebook provides a detailed explanation of the mathematics behind the simulation, as well as an example of how to use the code to simulate different initial conditions.
 
 To run the notebook, you will need to have Jupyter Notebook installed. If you don't already have it installed, you can install it by running the following command in your terminal:
 
@@ -41,6 +41,7 @@ pip install jupyter
 Once you have Jupyter Notebook installed, you can run the notebook by running the following command in your terminal:
 
 ```
-jupyter notebook simple_pendulum_3d.ipynb
+jupyter notebook
 ```
+
 This will open the notebook in your default web browser.
