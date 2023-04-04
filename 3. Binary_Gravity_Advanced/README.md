@@ -23,10 +23,10 @@ pip install numpy scipy matplotlib
 To run the simulation, simply run the .py file file in your terminal using the following command:
 
 ```
-python simple_pendulum_3d.py
+python 3. Binary_Gravity_Advanced.py
 ```
 
-This will generate an animation of the 3D simple pendulum in your default web browser.
+This will generate an animation of the binary system in your default web browser.
 
 ## Jupyter Notebook
 
