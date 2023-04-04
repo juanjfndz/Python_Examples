@@ -23,7 +23,7 @@ pip install numpy scipy matplotlib
 To run the simulation, simply run the .py file file in your terminal using the following command:
 
 ```
-python simple_pendulum_3d.py
+python 2. Binary_Gravity.py
 ```
 
 
