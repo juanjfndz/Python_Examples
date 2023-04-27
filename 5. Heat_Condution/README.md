@@ -10,7 +10,7 @@ Heat conduction is a fundamental concept in physics, referring to the transfer o
 
 The heat conduction problem can be mathematically described by the internal energy equation, which is a PDE that connects the temperature distribution in a material to the time rate of change of the temperature and the heat conduction properties of the material. The internal energy equation can be written as:
 
-∂𝑇/∂𝑡 = 𝐝𝐢𝐯(𝐾𝑐𝑜𝑛𝑑∇𝑇)
+$$\frac{∂𝑇}{∂𝑡} = 𝐝𝐢𝐯(𝐾𝑐𝑜𝑛𝑑∇𝑇)$$
 
 where:
 - 𝑇 represents the temperature distribution in the material.
