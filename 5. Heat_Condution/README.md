@@ -1,4 +1,4 @@
-# Heat Conduction Numerical Study README
+# Heat Conduction Numerical Study
 
 ## Overview
 
